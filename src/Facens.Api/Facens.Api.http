@@ -1,0 +1,6 @@
+@Facens.Api_HostAddress = http://localhost:5286
+
+GET {{Facens.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
